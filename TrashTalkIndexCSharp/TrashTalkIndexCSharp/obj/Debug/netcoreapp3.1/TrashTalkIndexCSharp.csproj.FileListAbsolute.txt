@@ -1,0 +1,13 @@
+/Users/nickdaria/Git/TrashTalkIndex/TrashTalkIndexCSharp/TrashTalkIndexCSharp/bin/Debug/netcoreapp3.1/TrashTalkIndexCSharp.deps.json
+/Users/nickdaria/Git/TrashTalkIndex/TrashTalkIndexCSharp/TrashTalkIndexCSharp/bin/Debug/netcoreapp3.1/TrashTalkIndexCSharp.runtimeconfig.json
+/Users/nickdaria/Git/TrashTalkIndex/TrashTalkIndexCSharp/TrashTalkIndexCSharp/bin/Debug/netcoreapp3.1/TrashTalkIndexCSharp.runtimeconfig.dev.json
+/Users/nickdaria/Git/TrashTalkIndex/TrashTalkIndexCSharp/TrashTalkIndexCSharp/bin/Debug/netcoreapp3.1/TrashTalkIndexCSharp.dll
+/Users/nickdaria/Git/TrashTalkIndex/TrashTalkIndexCSharp/TrashTalkIndexCSharp/bin/Debug/netcoreapp3.1/TrashTalkIndexCSharp.pdb
+/Users/nickdaria/Git/TrashTalkIndex/TrashTalkIndexCSharp/TrashTalkIndexCSharp/obj/Debug/netcoreapp3.1/TrashTalkIndexCSharp.csproj.AssemblyReference.cache
+/Users/nickdaria/Git/TrashTalkIndex/TrashTalkIndexCSharp/TrashTalkIndexCSharp/obj/Debug/netcoreapp3.1/TrashTalkIndexCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickdaria/Git/TrashTalkIndex/TrashTalkIndexCSharp/TrashTalkIndexCSharp/obj/Debug/netcoreapp3.1/TrashTalkIndexCSharp.AssemblyInfoInputs.cache
+/Users/nickdaria/Git/TrashTalkIndex/TrashTalkIndexCSharp/TrashTalkIndexCSharp/obj/Debug/netcoreapp3.1/TrashTalkIndexCSharp.AssemblyInfo.cs
+/Users/nickdaria/Git/TrashTalkIndex/TrashTalkIndexCSharp/TrashTalkIndexCSharp/obj/Debug/netcoreapp3.1/TrashTalkIndexCSharp.csproj.CoreCompileInputs.cache
+/Users/nickdaria/Git/TrashTalkIndex/TrashTalkIndexCSharp/TrashTalkIndexCSharp/obj/Debug/netcoreapp3.1/TrashTalkIndexCSharp.dll
+/Users/nickdaria/Git/TrashTalkIndex/TrashTalkIndexCSharp/TrashTalkIndexCSharp/obj/Debug/netcoreapp3.1/TrashTalkIndexCSharp.pdb
+/Users/nickdaria/Git/TrashTalkIndex/TrashTalkIndexCSharp/TrashTalkIndexCSharp/obj/Debug/netcoreapp3.1/TrashTalkIndexCSharp.genruntimeconfig.cache
